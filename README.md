@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://api.githubtrends.io/user/svg/damien-schneider/langs?time_range=one_year&use_percent=True)
+
 [![](https://visitcount.itsvg.in/api?id=damien-schneider&label=Vues&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
