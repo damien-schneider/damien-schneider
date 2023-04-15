@@ -1,5 +1,7 @@
-### Bonjour tout le monde 👋
+<!--# Damien Schneider 👋-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=500&color=000000C0&vCenter=true&width=435&lines=D%C3%A9veloppeur+Front;Webdesigner;3D+Artist;Photographe;Passion%C3%A9)](https://git.io/typing-svg)
 
+[Visit my portfolio](https://damien-schneider.art)
 <!--
 **damien-schneider/damien-schneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
